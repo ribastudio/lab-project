@@ -16,8 +16,9 @@
 
 ---
 
+  Tutorial padrao usando [Tutorial do medium](https://medium.com/thefreshwrites/the-way-of-dockerize-a-spring-boot-and-mysql-application-with-docker-compose-de2fc03c6a42e)
+
 <p align="center"> 
-  Tutorial padrao usando https://medium.com/thefreshwrites/the-way-of-dockerize-a-spring-boot-and-mysql-application-with-docker-compose-de2fc03c6a42e
     <br> 
 </p>
 
@@ -49,6 +50,15 @@ What things you need to install the software and how to install them.
 Give examples
 ```
 
+### Goals
+
+[] - Padrão de backend usando repositories
+[] - Usando factories
+[] - Usecases 
+- criar login
+- fazer requisição de get
+
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
@@ -70,6 +80,8 @@ End with an example of getting some data out of the system or using it for a lit
 ## 🔧 Running the tests <a name = "tests"></a>
 
 Explain how to run the automated tests for this system.
+lab-project
+lab-project-test
 
 ### Break down into end to end tests
 
